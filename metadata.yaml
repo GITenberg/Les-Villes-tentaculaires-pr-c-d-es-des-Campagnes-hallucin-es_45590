@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emile_Verhaeren
     - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45590#Les-Villes-tentaculaires-pr-c-d-es-des-Campagnes-hallucin-es
 gutenberg_bookshelf:
 - FR Littérature francophone
 - FR Poésie
